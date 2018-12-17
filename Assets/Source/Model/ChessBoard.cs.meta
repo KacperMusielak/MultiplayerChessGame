@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a42bae33b0387e544b2cec9197bfb517
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - whitePiecePrefab: {fileID: 1461430579198962, guid: dd70c8391e15b9f4fa64ffa510fbcfb0,
+      type: 2}
+  - blackPiecePrefab: {fileID: 1794194380116196, guid: 23efea3257d587d48b03803ba32f26d1,
+      type: 2}
+  - whiteBishopPrefab: {fileID: 1183142044046866, guid: 4c6225092d7cd6a4e9fe0a3044844f52,
+      type: 2}
+  - blackBishopPrefab: {fileID: 1359421735673422, guid: c66c101156f70ab4eb2b5da02d67e144,
+      type: 2}
+  - chatMessageContainer: {instanceID: 0}
+  - messagePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
